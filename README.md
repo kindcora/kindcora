@@ -17,6 +17,8 @@
 - ⚡ Fun fact **I love watching Anime & Manga 
 **
 <p align = "Center"> <img width="500" height="300" alt="monogatr" src="https://github.com/user-attachments/assets/5703dffa-44b7-441b-b561-d8ce159d2c8a" />
+
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/kindcora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="kindcora" height="30" width="40" /></a>
@@ -33,4 +35,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kindcora&show_icons=true&locale=en" alt="kindcora" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kindcora&" alt="kindcora" /></p>
-
