@@ -1,4 +1,6 @@
-# Hi 👋, I'm Dang Hoang
+# Hi 👋, I'm Dang Hoang Ha
+
+<p align="Center"> <img width="500" height="300" alt="fdff96422a17aaaf09faabca8af593f2" src="https://github.com/user-attachments/assets/2405154b-eaf4-4a06-9bb2-b1e388a4299e" />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kindcora&theme=onedark" alt="kindcora" /></a> </p>
 
@@ -14,7 +16,7 @@
 
 - ⚡ Fun fact **I love watching Anime & Manga 
 **
-
+<p align = "Center"> <img width="500" height="300" alt="monogatr" src="https://github.com/user-attachments/assets/5703dffa-44b7-441b-b561-d8ce159d2c8a" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/kindcora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="kindcora" height="30" width="40" /></a>
