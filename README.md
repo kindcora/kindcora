@@ -1,93 +1,36 @@
-[github-profile-1777639857548.json](https://github.com/user-attachments/files/27276078/github-profile-1777639857548.json)
-{
-  "version": "1.0.0",
-  "exportedAt": "2026-05-01T12:50:57.547Z",
-  "profile": {
-    "title": "Dang Hoang",
-    "subtitle": "",
-    "currentWork": "Freelancer",
-    "currentLearn": "C & C++ & Python & LLM",
-    "collaborateOn": "open source projects, algorithm structure ",
-    "helpWith": "",
-    "ama": "C, C++, Python",
-    "contact": "kindcora@protonmail.com",
-    "funFact": "I love watching Anime & Manga \n",
-    "visitorsBadge": true,
-    "badgeStyle": "flat",
-    "badgeColor": "0e75b6",
-    "badgeLabel": "Profile views",
-    "githubProfileTrophy": true,
-    "githubStats": true,
-    "githubStatsOptions": {
-      "theme": "",
-      "titleColor": "",
-      "textColor": "",
-      "bgColor": "",
-      "hideBorder": false,
-      "cacheSeconds": null,
-      "locale": "en"
-    },
-    "topLanguages": true,
-    "topLanguagesOptions": {
-      "theme": "",
-      "titleColor": "",
-      "textColor": "",
-      "bgColor": "",
-      "hideBorder": false,
-      "cacheSeconds": null,
-      "locale": "en"
-    },
-    "streakStats": true,
-    "streakStatsOptions": {
-      "theme": ""
-    },
-    "devDynamicBlogs": false,
-    "mediumDynamicBlogs": false,
-    "rssDynamicBlogs": false
-  },
-  "links": {
-    "currentWork": "",
-    "collaborateOn": "",
-    "helpWith": "",
-    "portfolio": "",
-    "blog": "",
-    "resume": ""
-  },
-  "social": {
-    "github": "kindcora",
-    "dev": "kindcora",
-    "linkedin": "hà-đăng-hoàng-808633350",
-    "codepen": "",
-    "stackoverflow": "",
-    "kaggle": "",
-    "codesandbox": "",
-    "fb": "kindcora2k7",
-    "instagram": "",
-    "twitter": "",
-    "dribbble": "",
-    "behance": "",
-    "medium": "",
-    "youtube": "",
-    "codechef": "",
-    "hackerrank": "",
-    "codeforces": "",
-    "leetcode": "",
-    "topcoder": "",
-    "hackerearth": "",
-    "geeks_for_geeks": "",
-    "discord": "",
-    "rssurl": "",
-    "twitterBadge": false
-  },
-  "support": {
-    "buyMeACoffee": ""
-  },
-  "skills": [
-    "c",
-    "cplusplus",
-    "csharp",
-    "linux",
-    "mysql",
-    "python"
-  ]
-}
+# Hi 👋, I'm Dang Hoang
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kindcora&label=Profile views&color=0e75b6&style=flat" alt="kindcora" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kindcora" alt="kindcora" /></a> </p>
+
+- 🔭 I'm currently working on **Freelancer**
+
+- 🌱 I'm currently learning **C & C++ & Python & LLM**
+
+- 👯 I'm looking to collaborate on **open source projects, algorithm structure **
+
+- 💬 Ask me about **C, C++, Python**
+
+- 📫 How to reach me **kindcora@protonmail.com**
+
+- ⚡ Fun fact **I love watching Anime & Manga 
+**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/kindcora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="kindcora" height="30" width="40" /></a>
+<a href="https://dev.to/kindcora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kindcora" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hà-đăng-hoàng-808633350" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hà-đăng-hoàng-808633350" height="30" width="40" /></a>
+<a href="https://fb.com/kindcora2k7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kindcora2k7" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kindcora&show_icons=true&locale=en&layout=compact" alt="kindcora" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kindcora&show_icons=true&locale=en" alt="kindcora" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kindcora&" alt="kindcora" /></p>
+
