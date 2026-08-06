@@ -20,9 +20,10 @@ I enjoy turning ideas into dependable software, from systems programming and alg
 
 - Email: [kindcora@protonmail.com](mailto:kindcora@protonmail.com)
 - LinkedIn: [Hoang Ha Dang](https://www.linkedin.com/in/h%C3%A0-%C4%91%C4%83ng-ho%C3%A0ng-808633350/)
-## GitHub Stats
+## GitHub at a Glance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kindcora&show_icons=true&hide_title=true&theme=transparent" alt="GitHub statistics for Hoang Ha Dang" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kindcora&layout=compact&langs_count=6&theme=transparent" alt="Top languages used by Hoang Ha Dang" />
+  <img src="https://img.shields.io/github/followers/kindcora?style=flat-square&label=Followers" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/last-commit/kindcora/kindcora?style=flat-square&label=Profile%20updated" alt="Latest profile update" />
+  <img src="https://img.shields.io/github/languages/top/kindcora/zh-vi-studio?style=flat-square&label=Featured%20project" alt="Featured project language" />
 </p>
