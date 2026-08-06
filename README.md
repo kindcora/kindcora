@@ -1,37 +1,22 @@
-# Hi 👋, I'm Dang Hoang
-<p align="Center">
-  <img width="500" height="300" alt="fdff96422a17aaaf09faabca8af593f2" src="https://github.com/user-attachments/assets/2405154b-eaf4-4a06-9bb2-b1e388a4299e" />
-</p>
+# Hi, I'm Hoang Ha Dang
 
-- 🔭 I'm currently working on **Freelancer**
+**Software Developer** building practical applications with C/C++, Python, and AI.
 
-- 🌱 I'm currently learning **C & C++ & Python & LLM**
+I enjoy turning ideas into dependable software, from systems programming and algorithmic problem solving to LLM-powered tools.
 
-- 👯 I'm looking to collaborate on **open source projects, algorithm structure **
+## Current Focus
 
-- 💬 Ask me about **C, C++, Python**
+- Building software with **Python**, **C/C++**, and **LLM applications**
+- Strengthening skills in algorithms, system design, and open-source collaboration
+- Seeking opportunities to contribute to thoughtful, high-impact projects
 
-- 📫 How to reach me **kindcora@protonmail.com**
+## Tech Stack
 
-- ⚡ Fun fact **I love watching Anime & Manga
-**
-<p align="Center">
-  <img width="500" height="300" alt="monogatr" src="https://github.com/user-attachments/assets/5703dffa-44b7-441b-b561-d8ce159d2c8a" />
-</p>
+**Languages:** C, C++, Python, C#, JavaScript  
+**Tools & Platforms:** Linux, Git, MySQL, Docker  
+**Interests:** Applied AI, developer tools, backend systems, and automation
 
+## Let's Connect
 
-
-<h3 align="left">Connect with me:</h3>
-<table>
-  <tr>
-    <td><a href="https://github.com/kindcora" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" /></a></td>
-    <td><a href="https://dev.to/kindcora" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30" width="40" /></a></td>
-    <td><a href="https://linkedin.com/in/hà-đăng-hoàng-808633350" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a></td>
-    <td><a href="https://fb.com/kindcora2k7" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a></td>
-  </tr>
-</table>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,linux,mysql,py" />
-</p>
+- Email: [kindcora@protonmail.com](mailto:kindcora@protonmail.com)
+- LinkedIn: [Hoang Ha Dang](https://www.linkedin.com/in/h%C3%A0-%C4%91%C4%83ng-ho%C3%A0ng-808633350/)
