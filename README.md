@@ -1,58 +1,64 @@
+<div align="center">
+
 # Hi, I'm Hoang Ha Dang
 
+**Software Developer · C/C++ · Python · Applied AI**
 
-**Software Developer** building practical applications with C/C++, Python, and AI.
+I build practical software for learning, developer workflows, and content creation.
 
+[Projects](#selected-projects) · [Tech stack](#tech-stack) · [Contact](#lets-connect)
 
-I enjoy turning ideas into dependable software, from systems programming and algorithmic problem solving to LLM-powered tools.
+</div>
 
+---
 
-## Products
+## About me
 
+I enjoy turning ideas into dependable applications, from systems programming and algorithmic problem solving to LLM-powered tools. My current work brings together automation, accessible learning experiences, and software that is useful in everyday workflows.
 
-| Product | What it does | Links |
-| --- | --- | --- |
-| **ZH -> VI Studio** | Localizes Chinese video content into Vietnamese with subtitles, expressive dubbing, vocal isolation, and terminology support. | [Live app](https://zh-vi-studio.onrender.com/) / [Source](https://github.com/kindcora/zh-vi-studio) |
-| **PR Quality Bot** | Reviews pull-request hygiene, test signals, dependencies, sensitive files, and change risk with deterministic GitHub checks. | [Marketplace](https://github.com/marketplace/actions/pr-quality-bot) / [Source](https://github.com/kindcora/pr-quality-bot) |
-| **MultiPost Studio** | Supports Windows video publishing workflows with upload scheduling, product documentation, support, and data-deletion guidance. | [Product](https://kindcora.github.io/multipost-studio-pages/) / [Guide](https://kindcora.github.io/multipost-studio-pages/guide.html) / [Source](https://github.com/kindcora/multipost-studio-pages) |
-| **QuizMaster Pro** | A Vietnamese quiz PWA for creating and practicing question sets, with offline-ready browser support. | [Live app](https://kindcora.github.io/tracnghiem/) / [Source](https://github.com/kindcora/tracnghiem) |
+## Selected projects
 
+### [GDQPAN Quiz](https://github.com/kindcora/gdqpan-quiz)
 
-## Current Focus
+A Vietnamese study website for national defense education and general physics. Includes question practice, timed exams, saved progress, mistake review, and interactive physics labs.
 
+**HTML · CSS · JavaScript · Playwright**
 
-- Building software with **Python**, **C/C++**, and **LLM applications**
-- Strengthening skills in algorithms, system design, and open-source collaboration
-- Seeking opportunities to contribute to thoughtful, high-impact projects
+[Try the quiz](https://kindcora.github.io/gdqpan-quiz/) · [Explore physics](https://kindcora.github.io/gdqpan-quiz/physics/index.html) · [Source](https://github.com/kindcora/gdqpan-quiz)
 
+### [ZH → VI Studio](https://github.com/kindcora/zh-vi-studio)
 
-## Tech Stack
+Tools for localizing Chinese video content into Vietnamese, with subtitles, expressive dubbing, vocal isolation, and terminology support.
 
+[Live app](https://zh-vi-studio.onrender.com/) · [Source](https://github.com/kindcora/zh-vi-studio)
 
-- **Languages:** C, C++, Python, C#, JavaScript, TypeScript
-- **Tools & Platforms:** Node.js, GitHub Actions, Linux, Git, MySQL, Docker
-- **Interests:** Applied AI, developer tools, backend systems, and automation
+### [PR Quality Bot](https://github.com/kindcora/pr-quality-bot)
 
+Deterministic GitHub checks for pull-request hygiene, test signals, dependencies, sensitive files, and change risk.
 
-## Let's Connect
+[GitHub Marketplace](https://github.com/marketplace/actions/pr-quality-bot) · [Source](https://github.com/kindcora/pr-quality-bot) · [Code analysis](https://app.codacy.com/gh/kindcora/pr-quality-bot/dashboard)
 
+### More projects
 
-- Email: [kindcora@protonmail.com](mailto:kindcora@protonmail.com)
-- Telegram: [@kindcora1](https://t.me/kindcora1)
-- LinkedIn: [Hoang Ha Dang](https://www.linkedin.com/in/h%C3%A0-%C4%91%C4%83ng-ho%C3%A0ng-808633350/)
+- **[MultiPost Studio](https://kindcora.github.io/multipost-studio-pages/)** — documentation and support for Windows video publishing and scheduling workflows. [Guide](https://kindcora.github.io/multipost-studio-pages/guide.html) · [Source](https://github.com/kindcora/multipost-studio-pages)
+- **[QuizMaster Pro](https://kindcora.github.io/tracnghiem/)** — a Vietnamese quiz PWA for creating and practicing question sets, with offline-ready browser support. [Source](https://github.com/kindcora/tracnghiem)
 
+## Tech stack
 
-## GitHub at a Glance
+| Area | Technologies |
+| --- | --- |
+| Languages | C, C++, Python, C#, JavaScript, TypeScript |
+| Tools & platforms | Node.js, GitHub Actions, Linux, Git, MySQL, Docker |
+| Interests | Applied AI, LLM applications, developer tools, backend systems, automation |
 
+## What I'm working on
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/kindcora?style=flat-square&label=Followers" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/last-commit/kindcora/kindcora?style=flat-square&label=Profile%20updated" alt="Latest profile update" />
-  <img src="https://img.shields.io/github/languages/top/kindcora/zh-vi-studio?style=flat-square&label=Featured%20project" alt="Featured project language" />
-</p>
+- Building applications with Python, C/C++, and LLMs.
+- Improving usability and test coverage in my projects.
+- Strengthening algorithms, system design, and open-source collaboration.
 
-## Verified Code Quality
+I'm open to opportunities to contribute to useful, thoughtfully built software.
 
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/904130cf5c7244f4a9b75a891a7b2e3f)](https://app.codacy.com/gh/kindcora/pr-quality-bot/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
+## Let's connect
 
-[PR Quality Bot](https://github.com/kindcora/pr-quality-bot) has a verified **A** grade from Codacy. [View the live analysis](https://app.codacy.com/gh/kindcora/pr-quality-bot/dashboard).
+[Email](mailto:kindcora@protonmail.com) · [Telegram](https://t.me/kindcora1) · [LinkedIn](https://www.linkedin.com/in/h%C3%A0-%C4%91%C4%83ng-ho%C3%A0ng-808633350/)
