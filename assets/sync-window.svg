@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 230" width="1000" height="230" role="img" aria-label="GitHub :00 and :30 cron queues drift up to 40 minutes; direct Apps Script dispatch triggers in 1 second">
+  <defs>
+    <linearGradient id="bad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7C2D12"/>
+      <stop offset="100%" stop-color="#F38649"/>
+    </linearGradient>
+    <pattern id="g2" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#161B22" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1000" height="230" fill="#0D1117"/>
+  <rect width="1000" height="230" fill="url(#g2)"/>
+
+  <text x="40" y="38" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#6E7681" letter-spacing="1.8">FREE CRON AT :00/:30 DRIFTS UP TO 40 MIN. DIRECT DISPATCH FIRES IN 1.0 S.</text>
+
+  <g transform="translate(150,66)">
+    <line x1="68" y1="-6" x2="68" y2="126" stroke="#8B949E" stroke-width="1.5" stroke-dasharray="4 4"/>
+    <text x="74" y="-12" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#8B949E">60 s target window</text>
+
+    <text x="-110" y="26" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#8B949E">*/30 CRON</text>
+    <rect x="0" y="10" width="0" height="26" rx="3" fill="url(#bad)">
+      <animate attributeName="width" from="0" to="710" dur="1.5s" fill="freeze"/>
+    </rect>
+    <text x="724" y="29" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" font-weight="700" fill="#F38649">18-42 min</text>
+
+    <text x="-110" y="86" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#8B949E">DISPATCH</text>
+    <rect x="0" y="70" width="0" height="26" rx="3" fill="#238636">
+      <animate attributeName="width" from="0" to="60" dur="1.5s" begin="0.5s" fill="freeze"/>
+    </rect>
+    <text x="76" y="89" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#3FB950">1.0 s trigger, 54 s total</text>
+  </g>
+
+  <text x="40" y="196" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#6E7681">HTTP 204 workflow_dispatch -&gt; Vercel auto-deploy -&gt; Google Calendar updated in same run</text>
+  <text x="40" y="212" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#6E7681">root cause: global GitHub Actions queue saturation on :00 and :30 cron boundaries</text>
+  <rect x="0" y="226" width="1000" height="4" fill="#161B22"/>
+</svg>

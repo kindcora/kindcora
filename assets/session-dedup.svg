@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 300" width="1000" height="300" role="img" aria-label="Oracle reuses IDLICHHOC across recurring weekly sessions; composite key preserves all 40 sessions">
+  <defs>
+    <pattern id="g3" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#161B22" stroke-width="1"/>
+    </pattern>
+    <marker id="arw" markerWidth="10" markerHeight="10" refX="9" refY="3.2" orient="auto">
+      <path d="M0 0 L9 3.2 L0 6.4 z" fill="#F38649"/>
+    </marker>
+  </defs>
+
+  <rect width="1000" height="300" fill="#0D1117"/>
+  <rect width="1000" height="300" fill="url(#g3)"/>
+
+  <text x="40" y="36" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#6E7681" letter-spacing="1.8">ORACLE REUSES ONE IDLICHHOC ACROSS RECURRING WEEKS. NAIVE MAP KEYS WIPE HISTORY.</text>
+
+  <g transform="translate(40,62)">
+    <text x="0" y="0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#8B949E">Map.set(IDLICHHOC, session)</text>
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5">
+      <rect x="0" y="18" width="330" height="34" rx="4" fill="#161B22" stroke="#21262D" stroke-dasharray="4 3"/>
+      <text x="14" y="40" fill="#6E7681">week 0  &#183;  23/11</text>
+      <text x="256" y="40" fill="#6E7681">wiped</text>
+
+      <rect x="0" y="60" width="330" height="34" rx="4" fill="#161B22" stroke="#21262D" stroke-dasharray="4 3"/>
+      <text x="14" y="82" fill="#6E7681">week 1  &#183;  30/11</text>
+      <text x="256" y="82" fill="#6E7681">wiped</text>
+
+      <rect x="0" y="102" width="330" height="34" rx="4" fill="#161B22" stroke="#21262D" stroke-dasharray="4 3"/>
+      <text x="14" y="124" fill="#6E7681">weeks 2-4  &#183;  Dec</text>
+      <text x="256" y="124" fill="#6E7681">wiped</text>
+
+      <rect x="0" y="144" width="330" height="34" rx="4" fill="#271710" stroke="#7C2D12"/>
+      <text x="14" y="166" fill="#F38649">week 5  &#183;  28/12</text>
+      <text x="236" y="166" fill="#F38649">survives</text>
+    </g>
+    <text x="0" y="208" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#6E7681">6 of 40 kept, 34 false cancel alerts</text>
+  </g>
+
+  <g transform="translate(430,150)">
+    <line x1="0" y1="0" x2="105" y2="0" stroke="#F38649" stroke-width="2" marker-end="url(#arw)"/>
+    <text x="0" y="-14" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" fill="#F38649">composite key</text>
+    <text x="0" y="24" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" fill="#6E7681">id + date + time</text>
+  </g>
+
+  <g transform="translate(600,62)">
+    <text x="0" y="0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#8B949E">Map.set(id_date_start, session)</text>
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#F38649">
+      <rect x="0" y="18" width="330" height="34" rx="4" fill="#271710" stroke="#7C2D12">
+        <animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.2s" fill="freeze"/>
+      </rect>
+      <text x="14" y="40">week 0  &#183;  23/11  &#183;  6 sessions</text>
+      <rect x="0" y="60" width="330" height="34" rx="4" fill="#271710" stroke="#7C2D12">
+        <animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.4s" fill="freeze"/>
+      </rect>
+      <text x="14" y="82">week 1  &#183;  30/11  &#183;  6 sessions</text>
+      <rect x="0" y="102" width="330" height="34" rx="4" fill="#271710" stroke="#7C2D12">
+        <animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.6s" fill="freeze"/>
+      </rect>
+      <text x="14" y="124">weeks 2-4  &#183;  Dec &#183; 18 sessions</text>
+      <rect x="0" y="144" width="330" height="34" rx="4" fill="#271710" stroke="#7C2D12">
+        <animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.8s" fill="freeze"/>
+      </rect>
+      <text x="14" y="166">week 5  &#183;  28/12  &#183;  6 sessions</text>
+    </g>
+    <text x="0" y="208" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#3FB950">40 of 40 kept, stable UIDs across syncs</text>
+  </g>
+</svg>
